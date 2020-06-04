@@ -1,7 +1,7 @@
 # Deep-Reinforcement-Learning
 Aims to design and implement a deep reinforcement learning agent for a video game from OpenAI Gym using Python, tensorflow and scikit-learn.
 
-REQUIREMENTS:
+## REQUIREMENTS:
 
 * Keras Version        2.3.1
 
